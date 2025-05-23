@@ -73,7 +73,7 @@ warningLabel.Parent = frame
 
 -- Steal Button (moved down)
 local stealButton = Instance.new("TextButton")
-stealButton.Text = "STEAL (1-2 min wait)"
+stealButton.Text = "STEAL (1-4 min wait)"
 stealButton.Size = UDim2.new(0.6, 0, 0, 45) -- Larger button
 stealButton.Position = UDim2.new(0.2, 0, 0, 180) -- Moved down
 stealButton.Font = Enum.Font.GothamBold
